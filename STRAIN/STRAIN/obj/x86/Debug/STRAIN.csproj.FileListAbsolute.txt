@@ -1,0 +1,72 @@
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.frmMainMenu.resources
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.frmGameboard.resources
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.Properties.Resources.resources
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.pdb
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\bin\Debug\STRAIN.exe.manifest
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\bin\Debug\STRAIN.application
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\bin\Debug\STRAIN.exe
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\bin\Debug\STRAIN.pdb
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.frmMainMenu.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.frmGameboard.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.Properties.Resources.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.exe.manifest
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.application
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.exe
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\Battleships\obj\x86\Debug\STRAIN.pdb
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe.config
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.pdb
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe.manifest
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.application
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.pdb
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmMainMenu.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmGameboard.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.Properties.Resources.resources
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe.manifest
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.application
+C:\Users\Apoclyps\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\Properties\Organic.wav
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\STRAIN.exe.config
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.pdb
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\Properties\Organic.wav
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\STRAIN.exe.manifest
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\STRAIN.application
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\STRAIN.exe
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\bin\Debug\STRAIN.pdb
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmMainMenu.resources
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmGameboard.resources
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.Properties.Resources.resources
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe.manifest
+C:\Users\Kyle\Desktop\Strain Installation\STRAIN\STRAIN\obj\x86\Debug\STRAIN.application
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe.config
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\Properties\Organic.wav
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe.manifest
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.application
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\bin\Debug\STRAIN.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmMainMenu.resources
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.frmGameboard.resources
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.Properties.Resources.resources
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.exe.manifest
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\STRAIN\STRAIN\obj\x86\Debug\STRAIN.application
